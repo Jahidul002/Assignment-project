@@ -1,5 +1,7 @@
 body {
     margin: 0%;
+    font-family: 'Finlandica', sans-serif;
+    font-family: 'Gentium Book Plus', serif;
 }
 
 #bg-img {
@@ -41,4 +43,29 @@ body {
     text-shadow: 1 1 5px rgb(197, 168, 168);
     font-size: 35px;
     font-weight: 900;
+}
+
+.donate {
+    display: flex;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.amnt {
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgba(44, 42, 42, 0.164);
+    margin: 15px;
+}
+
+#s-amnt {
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgba(231, 85, 85, 0.329);
+    margin: 15px;
+    border: 2px solid tomato;
+    color: tomato;
 }
