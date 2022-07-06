@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Finlandica:wght@400;500;600&family=Gentium+Book+Plus&family=Lobster&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Finlandica:wght@400;500;600&family=Gentium+Book+Plus&family=Lobster&family=Shadows+Into+Light&display=swap');
+
 body {
     margin: 0%;
     border: 0%;
@@ -14,6 +18,7 @@ body {
     height: 100vh;
     color: aliceblue;
     justify-content: center;
+    border-end-end-radius: 10px;
 }
 
 .txt-allign {
@@ -201,9 +206,17 @@ d-adjst {
 
 #txt-l1 {
     color: chocolate;
+    font-family: 'Finlandica', sans-serif;
+    font-family: 'Gentium Book Plus', serif;
+    font-family: 'Lobster', cursive;
 }
 
 #txt-l2 {
     color: brown;
     font-weight: 900;
+    font-family: 'Finlandica', sans-serif;
+    font-family: 'Gentium Book Plus', serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
 }
