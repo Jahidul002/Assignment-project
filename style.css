@@ -233,3 +233,9 @@ d-adjst {
     font-size: 40px;
     color: coral;
 }
+
+.divbg {
+    background-image: url(image/top-bnnr.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
