@@ -199,9 +199,10 @@ d-adjst {
 
 #fttr {
     background-color: black;
-    padding: 30px;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
+    background-size: cover;
+    padding: 10px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
 }
 
 #txt-l1 {
@@ -219,4 +220,16 @@ d-adjst {
     font-family: 'Lobster', cursive;
     font-family: 'Shadows Into Light', cursive;
     font-size: 30px;
+}
+
+#font-d {
+    font-size: 20px;
+    color: gray;
+    font-weight: 600;
+}
+
+
+.d-d {
+    font-size: 40px;
+    color: coral;
 }
