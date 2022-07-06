@@ -130,3 +130,45 @@ d-adjst {
     margin: 50px;
     padding: 50%;
 }
+
+.last2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.adjst-l {
+    padding: 50px;
+}
+
+.adjst2 {
+    padding: 50px;
+}
+
+.lst-bttn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    font-weight: 450;
+    margin: 5px;
+}
+
+.lst-bg {
+    background-color: rgba(179, 141, 91, 0.63);
+    padding: 40px;
+    margin: 70px;
+    border: 40px;
+    border-radius: 15px;
+}
